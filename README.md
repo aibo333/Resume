@@ -1,6 +1,6 @@
 <p align="center">Fu-Kai Tsao(Freddie) </p>
 
-<p align="center">fredxcc1991@gmail.com </p>
+<p align="center">fredxcc1991@gmail.com | https://aibo333.github.io/Resume/ </p>
 
 # 摘要
 兩年的工作經驗中，我與小夥伴們在一片白紙的情況下，參與了公司拓荒的過程，包括主力語言的選定(Rails)、開發模式實驗(Scrum、TDD、pair programming)、CVS(git、git flow、code review)、測試與CI的導入，一直到DB建置、code實作、自己QA自己開ticket，最後到部署上線、運維。
