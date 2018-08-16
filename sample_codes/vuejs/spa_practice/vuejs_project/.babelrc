@@ -1,0 +1,25 @@
+{
+    "presets": [
+        [
+            "latest",
+            {
+                "es2015": { "modules": false }
+            }
+        ]
+    ],
+    "plugins": [
+        [
+            "module-resolver", {
+                "alias": {
+                    "/": "./",
+                    "@": "./src",
+                    "@javascripts": "./src/assets/javascripts",
+                    "@layouts": "./src/layouts",
+                    "@provider": "./src/provider",
+                    "@cats": "./src/components/cats",
+                    "@partials": "./src/components/partials",
+                }
+            }
+        ]
+    ]
+}
